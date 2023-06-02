@@ -1,0 +1,8 @@
+.Titulo_Tabela {
+    align-items: center;
+}
+
+table {
+    border: 3px solid black;
+    text-align: center;
+}
